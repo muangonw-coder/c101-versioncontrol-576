@@ -5,3 +5,4 @@
 - Name: Weenawawadee Muangon
 - Major: Computer Science Lecturer
 - ฉันทดสอบ การใช้ Git
+- Learning 
